@@ -5,7 +5,7 @@
 
 - I’m currently learning **Data science**
 
-- Its data visualization is [Low-Risk aircraft analysis](https://public.tableau.com/authoring/airAccidents/analysisdashboard#1)
+- Its data visualization is [Low-Risk aircraft analysis](https://public.tableau.com/app/profile/stanley.maina/viz/airAccidents/analysisdashboard)
 
 - 📫 How to reach me **stanmaina54@gmail.com**
 
